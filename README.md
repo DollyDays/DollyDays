@@ -90,7 +90,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/BeiJing
 
 💬 Programming Languages: 
 Golang                   7 hrs 36 mins       █████████████████████████   100.00 % 
